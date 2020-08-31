@@ -1,0 +1,90 @@
+@import 
+url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+.boton1 {
+	cursor: pointer;
+	left: 12%;
+	top: 80%;
+	-webkit-text-stroke: 1px black;
+	font-family: 'Ubuntu', sans-serif;
+	color: transparent; 
+	position: fixed;
+	display: inline-block;
+	padding: 15px 30px;
+	letter-spacing: 4px;
+	font-size: 20px;
+	text-decoration: none;
+	overflow: hidden;
+	transition: 0.2s;
+}
+
+.boton1:hover {
+	background: #ae219d;
+	box-shadow: 0 0 10px #ae219d, 0 0 40px #ae219d, 0 0 80px #ae219d;
+}
+
+.boton2 {
+	cursor: pointer;
+	left: 39.5%;
+	top: 80%;
+	-webkit-text-stroke: 1px black;
+	font-family: 'Ubuntu', sans-serif;
+	color: transparent; 
+	position: fixed;
+	display: inline-block;
+	padding: 15px 30px;
+	letter-spacing: 4px;
+	font-size: 20px;
+	text-decoration: none;
+	overflow: hidden;
+	transition: 0.2s;
+}
+
+.boton2:hover {
+	background: #ae219d;
+	box-shadow: 0 0 10px #ae219d, 0 0 40px #ae219d, 0 0 80px #ae219d;
+}
+
+.boton3 {
+	cursor: pointer;
+	left: 74%;
+	top: 80%;
+	-webkit-text-stroke: 1px black;
+	font-family: 'Ubuntu', sans-serif;
+	color: transparent; 
+	position: fixed;
+	display: inline-block;
+	padding: 15px 30px;
+	letter-spacing: 4px;
+	font-size: 20px;
+	text-decoration: none;
+	overflow: hidden;
+	transition: 0.2s;
+}
+
+.boton3:hover {
+	background: #ae219d;
+	box-shadow: 0 0 10px #ae219d, 0 0 40px #ae219d, 0 0 80px #ae219d;
+}
+
+.boton4 {
+	cursor: pointer;
+	left: 44.4%;
+	top: 90%;
+	-webkit-text-stroke: 1px black;
+	font-family: 'Ubuntu', sans-serif;
+	color: transparent; 
+	position: fixed;
+	display: inline-block;
+	padding: 15px 30px;
+	letter-spacing: 4px;
+	font-size: 20px;
+	text-decoration: none;
+	overflow: hidden;
+	transition: 0.2s;
+}
+
+.boton4:hover {
+	background: #ae219d;
+	box-shadow: 0 0 10px #ae219d, 0 0 40px #ae219d, 0 0 80px #ae219d;
+}

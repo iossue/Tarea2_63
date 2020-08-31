@@ -1,0 +1,74 @@
+@import 
+url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+* {
+	padding:0;
+	margin:0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+	background-repeat:no-repeat;
+	background-size:cover;
+
+	background-attachment: fixed;
+	
+	font-family:'Ubuntu', sans-serif;
+	line-height:20px;
+}
+
+.pf {
+	width: 90%;
+	margin:auto;
+}
+
+article {
+	background:rgba(24,8,33,.9);
+	padding:20px;
+	margin:20px 0;
+	color:#fff;
+	box-shadow:0 5px 5px 3px #00000040;
+}
+
+.boton1 {
+	cursor: pointer;
+	margin-left: 45%;
+	font-family: 'Ubuntu', sans-serif;
+	color: white; 
+	display: inline-block;
+	padding: 15px 30px;
+	letter-spacing: 4px;
+	font-size: 20px;
+	text-decoration: none;
+	overflow: hidden;
+	transition: 0.2s;
+}
+
+.boton1:hover {
+	background: #ae219d;
+	box-shadow: 0 0 10px #ae219d, 0 0 40px #ae219d, 0 0 80px #ae219d;
+}
+
+h1{
+	text-align: center;
+	line-height: 25px;
+}
+
+p{
+	text-align: justify;
+	line-height: 25px;
+}
+
+article h2, article p, article hr {
+	margin-bottom: 20px;
+}
+
+img{
+	margin-left: 33%;
+	width: 500px;
+	height: 280px;
+	margin-bottom:10px;
+}
+
